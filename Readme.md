@@ -76,3 +76,6 @@ If sum < target, move left pointer right.
 If sum > target, move right pointer left.
 
 Visualization updates each step with colors and pointer positions.
+
+
+BY Krishika
